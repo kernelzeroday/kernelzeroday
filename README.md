@@ -17,4 +17,3 @@ For more information on digital rights and security, consider visiting the follo
 No associations are held by this account. No statements made are to be taken as anything other than elaborate works of fiction. Remember rules 1 and 2 of an unnamed club.
 
 Have a wonderful, thoughtful, inspirational, and productive day bringing value to your project efforts. 🔥
-# End of Selection
