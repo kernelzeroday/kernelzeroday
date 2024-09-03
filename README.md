@@ -3,6 +3,9 @@
 
 **Available for projects under NDA only via trusted prior known references.** If you suspect you may know an associate of mine, please ask them to contact me before reaching out.
 
+![htp](https://github.com/user-attachments/assets/8b34b3d3-6dc9-4997-ac59-e55a25945138)
+
+
 I am a senior security researcher. My public work is strictly licensed under the [WTFPL](https://github.com/rpherrera/WTFPL) unless otherwise stated. 🔥
 
 The first and second amendments protect the manufacture of digital arms. Use all tooling and research made publicly available under your own free will and cognition of your actions in a state of lucidity with full awareness of all related consequences. The internet is serious business.
